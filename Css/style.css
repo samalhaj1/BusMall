@@ -1,0 +1,37 @@
+header{
+  background-color: rgba(209, 158, 158, 0.603);
+}
+
+
+h1{
+  font-size: 40px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+  font-family: monospace;
+
+}
+body{
+  background-image: url(../img/street.jpg);
+}
+h2{
+  font-size: 20px;
+  padding-top: 30px;
+  color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+div{
+display: flex;
+
+height: auto;
+vertical-align: middle;
+}
+  
+
+ 
+
+
+ 
+ 
+ 
