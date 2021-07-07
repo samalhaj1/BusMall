@@ -1,32 +1,41 @@
+*{
+  background-color: rgb(37, 59, 65);
+}
+
+
 #container{
   /* background-image: url(../img/street.jpg); */
   /* background-color: black; */
   width: 960px;
-  margin-left: 70px;
+  margin-left: 400px;
 }
 
 header {
-  background-color: bisque;
+  
   width: 960px;
   margin: 35px 35px;
   margin-left: 0px;
+  
 }
 
 h1 {
+  background-color: bisque;
   font-size: 5em;
   font-family: fantasy;
   text-align: center;
   color: rgb(14, 97, 97);
   font-weight: bold;
   padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 main{
   width: 960px;
   margin: 35px 0px;
-  margin-left: 5px;
+  /* margin-left: 20px; */
   padding: 10px 0px;
   padding-top: 100px;
+  /* padding-left: 30px; */
 }
 h2{
   padding-bottom: 60px;
@@ -39,11 +48,13 @@ h2{
   
 }
 h3{
-  padding-top: 40px;
+  background-color:bisque;
+  padding-top: 50px;
   padding-bottom: 60px;
-  font-size: 20px;
+  font-size:30px;
   font-family: fantasy;
   padding-left: 20px;
+  margin-top: 50px;
 
 
 }
@@ -74,12 +85,14 @@ img:hover {
   margin-top: 35px;
   border-style: solid;
   border-color: rgb(223, 223, 43);
+  margin-right: 150px;
 }
 
 #myChart {
-  padding: 50px;
+  /* padding: 50px; */
   height: 300px;
   width: 900px;
+  padding-right: 40px;
 }
 
 #myChart:hover{
@@ -105,6 +118,7 @@ footer{
   padding-bottom: 20px;
   color: rgb(15, 15, 5);
   background-color: rgba(255, 228, 196, 0.555);
+  padding-left:10px ;
   
 }
 
